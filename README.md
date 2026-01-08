@@ -92,4 +92,4 @@ curl -v https://example.com -x http://127.0.0.1:8888
 ## License
 For academic use.
 
-Report: docs/Network_Proxy_Server_Report.docx
+Report: docs/Network_Proxy_Server_Report.pdf
